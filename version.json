@@ -1,1 +1,1 @@
-{"version":"1.0.7","versionCode":7,"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.7/app-debug.apk","releaseNotes":"Version label + cache bust"}
+{"version":"1.0.7","versionCode":7,"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.7/app-debug.apk","releaseNotes":"Fixed fetch hang"}
