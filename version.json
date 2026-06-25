@@ -1,1 +1,1 @@
-{"version":"1.0.16","versionCode":16,"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.16/app-debug.apk","releaseNotes":"Test update - mandatory updater with debug log"}
+{"version":"1.0.17","versionCode":17,"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.17/app-debug.apk","releaseNotes":"Login system - Supabase auth, persistent sessions, admin account management"}
