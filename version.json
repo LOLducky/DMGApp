@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.71/app-debug.apk","versionCode":71,"version":"1.0.71","releaseNotes":"Fixed slur detector plugin bug."}
+{"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.72/app-debug.apk","versionCode":72,"version":"1.0.72","releaseNotes":"Fixed slur detector false positives on everyday words."}
