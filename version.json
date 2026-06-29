@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.73/app-debug.apk","versionCode":73,"version":"1.0.73","releaseNotes":"Fixed monitor username and custom webhook linking to user session."}
+{"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.74/app-debug.apk","versionCode":74,"version":"1.0.74","releaseNotes":"Allowed concurrent background mic capture for Meta calls and games."}
