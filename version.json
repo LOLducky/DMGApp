@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.74/app-debug.apk","versionCode":74,"version":"1.0.74","releaseNotes":"Allowed concurrent background mic capture for Meta calls and games."}
+{"apkUrl":"https://github.com/LOLducky/DMGApp/releases/download/v1.0.75/app-debug.apk","versionCode":75,"version":"1.0.75","releaseNotes":"Fixed OTA update infinite loop."}
